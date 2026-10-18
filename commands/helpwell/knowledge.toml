@@ -1,0 +1,2 @@
+description = "Find knowledge base gaps from live chat and support questions"
+prompt = "Review unanswered HelpWell live chat support questions and existing knowledge base coverage. Suggest help docs to fill the most useful gaps, citing verified product information. Draft content only; do not publish or overwrite existing articles. Additional context: {{args}}"

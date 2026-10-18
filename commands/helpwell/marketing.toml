@@ -1,0 +1,2 @@
+description = "Prepare SaaS email marketing and onboarding automation drafts"
+prompt = "Help me prepare a HelpWell email marketing newsletter or SaaS onboarding automation using the following brief. Check available email features and setup, including Resend delivery readiness where relevant, and explain any missing configuration. Keep everything in draft and preview the intended audience. Do not send, schedule or activate automation. Brief: {{args}}"

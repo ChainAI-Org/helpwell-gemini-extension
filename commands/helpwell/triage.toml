@@ -1,0 +1,2 @@
+description = "Review help desk conversations and prepare support replies"
+prompt = "Summarize my HelpWell help desk inbox, identify the oldest unresolved support tickets and draft helpful replies using our knowledge base. Keep replies as drafts for my review. Do not send messages. If multiple workspaces or products are available, ask which one to use. Additional context: {{args}}"

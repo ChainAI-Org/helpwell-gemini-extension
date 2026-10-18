@@ -1,0 +1,10 @@
+{
+  "name": "helpwell",
+  "version": "0.1.0",
+  "description": "Help desk, knowledge base, help docs, live chat support, email marketing and SaaS marketing automation by Workado, LLC.",
+  "mcpServers": {
+    "helpwell": {
+      "httpUrl": "https://app.helpwell.ai/mcp"
+    }
+  }
+}
