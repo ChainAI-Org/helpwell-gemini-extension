@@ -1,5 +1,7 @@
 # HelpWell for Gemini CLI
 
+<img src="https://raw.githubusercontent.com/ChainAI-Org/HelpWell/main/branding/png/helpwell-mark-purple-512.png" alt="HelpWell logomark" width="64" height="64">
+
 Connect Gemini CLI to [HelpWell](https://helpwell.ai), by **Workado, LLC**. HelpWell brings your help desk, knowledge base, help docs, live chat support, support ticketing software, contacts, email marketing software and marketing automation for SaaS into one workspace.
 
 This extension configures the hosted HelpWell MCP endpoint and includes starter prompts. It contains no account credentials or hosted application source.
